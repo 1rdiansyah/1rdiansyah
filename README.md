@@ -10,8 +10,7 @@
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)
+![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress&logoColor=FFFFFF)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
