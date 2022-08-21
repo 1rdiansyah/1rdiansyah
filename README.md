@@ -6,12 +6,12 @@
 
 ### 🛠 &nbsp; Stack
 
-<a href="#" style="text-decoration: none;">![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;</a>
-<a href="#" style="text-decoration: none;">![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;</a>
-<a href="#" style="text-decoration: none;">![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;</a>
-<a href="#" style="text-decoration: none;">![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;</a>
-<a href="#" style="text-decoration: none;">![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress&logoColor=FFFFFF)&nbsp;</a>
-<a href="#" style="text-decoration: none;">![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;</a>
+<a href="#" style="text-decoration: none!important;">![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;</a>
+<a href="#" style="text-decoration: none!important;">![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;</a>
+<a href="#" style="text-decoration: none!important;">![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;</a>
+<a href="#" style="text-decoration: none!important;">![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;</a>
+<a href="#" style="text-decoration: none!important;">![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress&logoColor=FFFFFF)&nbsp;</a>
+<a href="#" style="text-decoration: none!important;">![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;</a>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
