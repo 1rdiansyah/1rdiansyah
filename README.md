@@ -1,6 +1,6 @@
 ### 
-<h1 align="center">Hi, I am Irdiansyah </h1>
-<p align="center">
+<h1>Hi, I am Irdiansyah </h1>
+<p>
 👀 I’m interested in web developing | 🌱 I’m currently learning everything
 </p>
 
@@ -16,7 +16,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p>
 <a href="https://irdiansyah.biz/"><img src="https://img.shields.io/badge/-irdiansyah.biz-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/irdiansyah/"><img src="https://img.shields.io/badge/-Irdiansyah-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:hello@irdiansyah.biz"><img src="https://img.shields.io/badge/-hello@irdiansyah.biz-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
