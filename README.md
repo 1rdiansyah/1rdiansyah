@@ -1,7 +1,7 @@
 ### 
 <h1>Hi, I am Irdiansyah </h1>
 <p>
-👀 I’m interested in web developing | 🌱 I’m currently learning everything
+👀 I’m interested in web developing & data science | 🌱 I’m currently learning everything
 </p>
 
 ### 🛠 &nbsp; Stack
