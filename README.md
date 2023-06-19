@@ -1,7 +1,7 @@
 ### 
 <h1>Hi, I am Irdiansyah </h1>
 <p>
-👀 I’m interested in Web Developing, Data Science, and Machine Learning | 🌱 I’m currently learning everything
+👀 I’m a Web Developer, Data Science, Machine Learning, and AI enthusiast| 🌱 I’m currently learning everything
 </p>
 
 ### 🛠 &nbsp; Stack
